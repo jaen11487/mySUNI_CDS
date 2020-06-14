@@ -1,4 +1,4 @@
-# Welcom to mySUNI CDS!
+# Welcome to mySUNI CDS!
 mySUNI 과정 CDS 과정에 오신 여러분 환영합니다. 
 
 이 저장소는 mySUNI CDS 온라인 과정을 위한 저장소 입니다.
